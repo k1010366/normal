@@ -1,0 +1,713 @@
+body
+		{ margin: 0px 0px 0px 0px;content: 0px;
+			
+			 background-color:#FFE4B5;
+		 }
+		.imgkkk
+		{
+			background-image:url("img/1.jpg");
+			background-size: contain;
+			height: 200px;
+			width: 100%;
+		}
+		div.navigation
+		{	
+			
+			margin:0,auto;
+			position: relative;
+			top:120px;
+			left:0px;
+			height: 80px;
+			width: 100%;
+		}
+		div.body
+		{
+			margin:0,auto;
+			
+			 background-color:#FFE4B5;
+			height: 6080px;
+			
+			
+			
+		}
+		div.header
+		{	
+			border-radius:10%;
+			position:relative;
+			top:100px;
+			left:160px;
+			 background-color:	#FFDAB9;
+			height: 500px;
+			width: 1200px;
+		}
+		div.sidebar
+		{
+			position:relative;
+			top:150px;
+			left:60px;
+			border-radius:25%;
+			margin:0,auto;
+			height:1800px;
+			width:280px;
+			background-color:#FF8C00;
+　			text-align:center;
+　			line-height:280px;
+　			font-size:15px;
+　			color:#ffffff;
+　			font-weight:bold;
+		}
+			div.a
+		{
+			border-radius:20%;
+			position: absolute;
+			top:900px;
+			left:400px;
+			background-color:	#FAF0E6;
+			
+			width: 1000px;
+			height:400px;
+		}
+		div.club
+		{
+			border-radius:20%;
+			position: absolute;
+			top:1400px;
+			left:400px;
+			background-color:	#FAF0E6;
+			
+			width: 1020px;
+			height:1600px;
+		}
+		div.club2
+		{
+			border-radius:20%;
+			position: relative;
+			top:0px;
+			left:50px;
+			background-color:	#FFDAB9;
+			
+			width: 900px;
+			height:260px;
+		}
+		div.club3
+		{
+			border-radius:20%;
+			position: relative;
+			top:120px;
+			left:50px;
+			background-color:	#FFDAB9;
+			
+			width: 900px;
+			height:260px;
+		}
+		div.goal
+		{
+			position:absolute;
+			top:2700px;
+			left:60px;
+			border-radius:10%;
+			margin:0,auto;
+			height:280px;
+			width:280px;
+			background-color:#FAF0E6;
+　			text-align:center;
+　			line-height:280px;
+　			font-size:15px;
+　			color:#ffffff;
+　			font-weight:bold;
+		}
+		div.interest
+		{
+			position:absolute;
+			top:3100px;
+			left:70px;
+			border-radius:10%;
+			margin:0,auto;
+			height:1180px;
+			width:1380px;
+			background-color:#FAF0E6;
+　			text-align:center;
+　			line-height:280px;
+　			font-size:15px;
+　			color:#ffffff;
+　			font-weight:bold;
+		}
+		div.interest2
+		{
+			border-radius:20%;
+			position: relative;
+			top:30px;
+			left:100px;
+			background-color:	#FFDAB9;
+			
+			width: 1200px;
+			height:400px;
+		}
+		div.interest3
+		{
+			border-radius:20%;
+			position: relative;
+			top:110px;
+			left:100px;
+			background-color:	#FFDAB9;
+			
+			width: 1200px;
+			height:400px;
+		}
+		div.life
+		{
+			position:absolute;
+			top:4400px;
+			left:70px;
+			border-radius:10%;
+			margin:0,auto;
+			height:1600px;
+			width:1380px;
+			background-color:#FAF0E6;
+　			text-align:center;
+　			line-height:280px;
+　			font-size:15px;
+　			color:#ffffff;
+　			font-weight:bold;
+		}
+		div.life2
+		{
+			border-radius:20%;
+			position: relative;
+			top:30px;
+			left:100px;
+			background-color:	#FFDAB9;
+			
+			width: 1200px;
+			height:600px;
+		}
+		div.life3
+		{
+			border-radius:20%;
+			position: relative;
+			top:30px;
+			left:60px;
+			background-color:	#FFDAB9;
+			
+			width: 1250px;
+			height:640px;
+		}
+		div.footer
+		{
+			position: relative;
+			top:3500px;
+			left:160px;
+			border-radius:20%;
+			height: 180px;
+			width: 1200px;
+			background-color:#CC6600;
+
+		}
+		.txt1
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position:absolute;
+			top:10px;
+			left: 150px
+
+		}
+		.imgmy
+		{
+			position: absolute;
+			border-radius:50%;
+			width:100px;
+			height:100px;
+		}
+		.imglogo
+		{
+			position: absolute;
+			left:100px;
+			width:200px;
+			height:100px;
+		}
+		.img2
+		{
+			position:relative;
+			left:80px;
+			width:480px;
+			height:500px;
+		}
+		.img3
+		{
+			position: relative;
+			left:100px;
+			width:500px;
+			height:500px;
+		}
+		.img4
+		{
+			border-radius:50%;
+			position:relative;
+			top:30px;
+			left:25px;
+			width:220px;
+			height:220px;
+		}
+		.imgfb
+		{
+			border-radius:20%;
+			position:relative;
+			top:310px;
+			left:70px;
+			width:100px;
+			height:100px;
+		}
+		.imgig
+		{
+			border-radius:20%;
+			position:relative;
+			top:340px;
+			left:70px;
+			width:100px;
+			height:100px;
+		}
+		.imgschool
+		{
+			width:1000px;
+			height:200px;
+		}
+		.imgc1
+		{
+			position:relative;
+			top:50px;
+			left:20px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc2
+		{
+			position:relative;
+			top:50px;
+			left:40px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc3
+		{
+			position:relative;
+			top:50px;
+			left:60px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc4
+		{
+			position:relative;
+			top:50px;
+			left:80px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc5
+		{
+			position:relative;
+			top:70px;
+			left:120px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc6
+		{
+			position:relative;
+			top:70px;
+			left:160px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc7
+		{
+			position:relative;
+			top:70px;
+			left:200px;
+			border-radius:50%;
+			width:230px;
+			height:230px;
+		}
+		.imgc8
+		{
+			border-radius:50%;
+			position:relative;
+			top:160px;
+			left:120px;
+			width:230px;
+			height:230px;
+		}
+		.imgc9
+		{
+			border-radius:50%;
+			position:relative;
+			top:160px;
+			left:160px;
+			width:230px;
+			height:230px;
+		}
+		.imgc10
+		{
+			border-radius:50%;
+			position:relative;
+			top:160px;
+			left:200px;
+			width:230px;
+			height:230px;
+		}
+		.imgcook
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:60px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl0
+		{
+			border-radius:50%;
+			position:relative;
+			top:200px;
+			left:60px;
+			width:230px;
+			height:230px;
+		}
+		.imgfood1
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:100px;
+			width:230px;
+			height:230px;
+		}
+		.imgfood2
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:140px;
+			width:230px;
+			height:230px;
+		}
+		.imgfood3
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:180px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl1
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:80px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl11
+		{
+			border-radius:20%;
+			position:relative;
+			top:0px;
+			left:40px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl2
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:160px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl3
+		{
+			border-radius:50%;
+			position:relative;
+			top:80px;
+			left:230px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl4
+		{
+			border-radius:50%;
+			position:absolute;
+			top:320px;
+			left:800px;
+			width:230px;
+			height:230px;
+		}
+		.imgcl5
+		{
+			border-radius:50%;
+			position:absolute;
+			top:330px;
+			left:470px;
+			width:230px;
+			height:230px;
+		}
+		.imgup
+		{
+			border-radius:50%;
+			position:fixed;
+			top:550px;
+			left:1380px;
+			width:200px;
+			height:200px;
+
+		}
+		.txt2
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position:absolute;
+			top:10px;
+			left: 460px
+		}
+		.txt3
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position:absolute;
+			top:10px;
+			left: 760px
+		}
+		.txt4
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position:absolute;
+			top:10px;
+			left: 1120px
+		}
+		.txt5
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position:absolute;
+			top:10px;
+			left: 1400px
+		}
+		.txt6
+		{
+			font-family: "標楷體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:20px;
+			left:55px;
+		}
+		.txt7
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:50px;
+			left:5px;
+		}
+		.txt8
+		{
+			color:white;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 24px;
+			position: relative;
+			top:70px;
+			left:0px;
+		}
+		.txt9
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:120px;
+			left:0px;
+		}
+		.txt10
+		{
+			color:white;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 25px;
+			position: relative;
+			top:140px;
+			left:60px;
+		}
+		.txt11
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:250px;
+			left:0px;
+		}
+		.txt12
+		{
+			color:white;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 28px;
+			position: relative;
+			top:280px;
+			left:60px;
+		}
+		.txt13
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:330px;
+			left:0px;
+		}
+		.txt14
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:340px;
+			left:0px;
+		}
+		.txt15
+		{
+			color:#E63F00;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:180px;
+			left:0px;
+		}
+		.txt16
+		{
+			color:white;
+			font-family: "fantasy";
+			font-weight: bolder;
+			font-size: 28px;
+			position: relative;
+			top:200px;
+			left:65px;
+		}
+		.txtschool
+		{
+			font-family: "標楷體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:0px;
+			left:380px;
+		}
+		.txtclub
+		{
+			font-family: "標楷體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:10px;
+			left:380px;
+		}
+		.txtclub2
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:20px;
+			left:30px;
+		}
+		.txtclub3
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:20px;
+			left:10px;
+		}
+		.txtgoal
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 30px;
+			position: relative;
+			top:0px;
+			left:60px;
+		}
+		.goal1
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 20px;
+			position: relative;
+			top:0px;
+			left:0px;
+		}
+		.txtinterest
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:0px;
+			left:650px;
+		}
+		.txtlife
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:0px;
+			left:600px;
+
+
+
+		}
+		.txtfriends
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 50px;
+			position: relative;
+			top:30px;
+			left:500px;
+		}
+		.txtfinsh
+		{
+			font-family: "微軟正黑體";
+			font-weight: bolder;
+			font-size: 50px;
+			text-align:center;
+			position: relative;
+			top:70px;
+			
+		}
